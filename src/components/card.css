@@ -1,0 +1,30 @@
+#body {
+  background-color: rgb(0, 0, 0, 0.5);
+}
+#image {
+  width: 100%;
+}
+#text {
+  color: black;
+  font-size: medium;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+#bu {
+  background-color: rgb(242, 169, 0);
+  color: white;
+  font-weight: 500;
+  font-size: small;
+}
+#bu:hover {
+  background-color: rgb(180, 129, 10);
+}
+#bu:active,
+#bu:focus {
+  background-color: rgb(180, 129, 10);
+}
+
+#mb {
+  margin-bottom: 5%;
+}
