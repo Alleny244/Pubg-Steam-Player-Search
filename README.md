@@ -1,23 +1,23 @@
 # PUBG PC Player Lifetime Stats 📃
 
 <p align="center">
-  <img src="https://github.com/mrtehseen/pubg-players-stats-react/blob/master/public/PUBGapiWithReact.png">
+  <img src="https://github.com/Alleny244/Pubg-Steam-Player-Search/blob/master/Readme_Image/Online%20Collage%20Maker%20_%20photo-collage.net%20-%20Google%20Chrome%2003-02-2021%2023_00_47%20(2).png">
 </p>
 
 A simplified tool to lookup your PUBG stats of lifetime just by entering your in-game player username (i.e Lucky-TV_et) and the tool will lookup your name in the PUBG PC Steam database managed by PUBG Developer API and search for most relevant players stats of all time of player's gameplay. 🎮
 
 The stats will contain the following attributes:
 - Total Kills
-- All-time damage dealt to the enemies
+- Wins
 - Headshots
 - Longest Kills
-- Vehicles Destroyed
+- Loses
 
 and a lot more and not confined to these attributes only, adding more with time...
 
 ## Technical Details:
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2203de60-983a-4aed-842a-a0a52589756e/deploy-status)](https://app.netlify.com/sites/laughing-jennings-df5e92/deploys)
+[Live Demo](https://alleny244.github.io/Pubg-Steam-Player-Search/)
 
 Developed using following technology stack/libraries.
 
@@ -30,6 +30,3 @@ Developed using following technology stack/libraries.
 -- No data is being stored and data rights are reserved to PUBG.
 
 
-
-[![Twitter](https://img.shields.io/twitter/follow/thetehseen.svg?style=social&label=Follow)](https://twitter.com/thetehseen/)
-![GitHub followers](https://img.shields.io/github/followers/mrtehseen?label=GitHub&style=social)
